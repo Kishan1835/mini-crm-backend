@@ -315,7 +315,7 @@ This project is created as part of the Prysm Labs Backend Developer Intern Assig
 
 ## 👤 Author
 
-[Your Name]
+T S Hayagriva Kishan
 
 ## 🙏 Acknowledgments
 
