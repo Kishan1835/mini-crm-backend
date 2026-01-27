@@ -5,7 +5,7 @@ import { AuthModule } from './auth/auth.module';
 import { UsersModule } from './users/users.module';
 import { CustomersModule } from './customers/customers.module';
 import { TasksModule } from './task/tasks.module';
-import { AppController } from './app.controller';  // Add this import
+import { AppController } from './app.controller';
 
 @Module({
   imports: [
@@ -18,6 +18,6 @@ import { AppController } from './app.controller';  // Add this import
     CustomersModule,
     TasksModule,
   ],
-  controllers: [AppController],  // Add this line
+  controllers: [AppController],
 })
 export class AppModule {}
