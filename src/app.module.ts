@@ -4,8 +4,8 @@ import { PrismaModule } from './prisma/prisma.module';
 import { AuthModule } from './auth/auth.module';
 import { UsersModule } from './users/users.module';
 import { CustomersModule } from './customers/customers.module';
-import { TasksModule } from './tasks/tasks.module';
-import { AppController } from './app.controller';
+import { TasksModule } from './task/tasks.module';
+import { AppController } from './app.controller';  // Add this import
 
 @Module({
   imports: [
@@ -18,6 +18,6 @@ import { AppController } from './app.controller';
     CustomersModule,
     TasksModule,
   ],
-  controllers: [AppController],
+  controllers: [AppController],  // Add this line
 })
 export class AppModule {}
