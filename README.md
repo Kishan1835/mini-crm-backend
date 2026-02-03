@@ -319,6 +319,6 @@ T S Hayagriva Kishan
 
 ## 🙏 Acknowledgments
 
-- Prysm Labs for the assignment opportunity
 - NestJS documentation
 - Prisma documentation
+
