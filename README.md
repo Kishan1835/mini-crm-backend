@@ -309,10 +309,6 @@ npx prisma migrate dev # Create and apply migrations
 - Protected routes requiring authentication
 - SQL injection prevention via Prisma
 
-## 📄 License
-
-This project is created as part of the Prysm Labs Backend Developer Intern Assignment.
-
 ## 👤 Author
 
 T S Hayagriva Kishan
@@ -321,4 +317,5 @@ T S Hayagriva Kishan
 
 - NestJS documentation
 - Prisma documentation
+
 
